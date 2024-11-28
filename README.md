@@ -1,5 +1,4 @@
-# Pong
-Python Pong Game 🎮
+# Python Pong Game 🎮
 
 A classic Pong game built in Python using the Pygame library
 

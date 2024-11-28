@@ -24,5 +24,6 @@ git clone [your repository link]
 
 Install Pygame:
 pip install pygame
+
 Run the game:
 python pong_game.py
